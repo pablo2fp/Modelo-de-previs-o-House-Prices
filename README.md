@@ -31,9 +31,9 @@ Os modelos foram treinados e avaliados no conjunto de teste (20% dos dados) com 
 
 | Modelo | MAE ($) | RMSE ($) | $R^2$ (%) |
 | :--- | :---: | :---: | :---: |
-| **Random Forest Regressor** | **$15.343,84** \vert{} **$ 20.957,78** | **91.02%** |
-| Support Vector Regressor (Poly) | $16.209,58 \vert{}$ 20.957,78 | 88.54%% |
-| Rede Neural MLP (Keras) | $14.895,44 \vert{}$ 21.097,42 | 90.90%% |
+| **Random Forest Regressor** | **$15.343,84** | **$ 20.957,78** | **91.02%** |
+| Support Vector Regressor (Poly) | $16.209,58 | $ 20.957,78 | 88.54%% |
+| Rede Neural MLP (Keras) | $14.895,44 | 21.097,42 | 90.90%% |
 
 
 ---
